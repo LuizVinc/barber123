@@ -1,8 +1,18 @@
-.princpal {
-   background-color: #CCCCCC;
+.tituloprinc{
+  padding-left: 20px;
 }
-h1 {
-  text-align:center;
+
+.principal {
+  background-color: #CCCCCC;
+  padding: 30px;
+}
+
+.banner {
+  width: 100%;
+}
+
+.textocent {
+  text-align: center;
 }
 
 p {
@@ -15,12 +25,4 @@ p {
 
 em b {
   color: blueviolet;
-}
-
-h2
-
-
-
-.imagem-beneficio {
-  width: 50%;
 }
